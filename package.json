@@ -4,7 +4,8 @@
   "description": "code jam task",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha",
+    "lint": "eslint"
   },
   "repository": {
     "type": "git",
