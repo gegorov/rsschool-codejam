@@ -1,0 +1,25 @@
+{
+  "name": "rsschool-codejam",
+  "version": "0.0.1",
+  "description": "code jam task",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gegorov/rsschool-codejam.git"
+  },
+  "author": "gegorov",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/gegorov/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/gegorov/rsschool-codejam#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "mocha": "^5.2.0"
+  }
+}
